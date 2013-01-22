@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'XProjectBuilder' target in the 'XProjectBuilder' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
