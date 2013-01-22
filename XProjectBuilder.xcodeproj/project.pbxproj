@@ -13,7 +13,70 @@
 		2FB5E0C716AF4BE000350777 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0C516AF4BE000350777 /* Credits.rtf */; };
 		2FB5E0CA16AF4BE000350777 /* ARAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0C916AF4BE000350777 /* ARAppDelegate.m */; };
 		2FB5E0CD16AF4BE000350777 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0CB16AF4BE000350777 /* MainMenu.xib */; };
+		2FB5E13116AF5A3000350777 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0D916AF5A3000350777 /* .gitignore */; };
+		2FB5E13216AF5A3000350777 /* build-configuration.properties in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0DA16AF5A3000350777 /* build-configuration.properties */; };
+		2FB5E13316AF5A3000350777 /* build.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0DB16AF5A3000350777 /* build.xml */; };
+		2FB5E13416AF5A3000350777 /* OCHamcrest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FB5E0E016AF5A3000350777 /* OCHamcrest.framework */; };
+		2FB5E13516AF5A3000350777 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0E116AF5A3000350777 /* LICENSE */; };
+		2FB5E13616AF5A3000350777 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0E216AF5A3000350777 /* README.md */; };
+		2FB5E13716AF5A3000350777 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0E616AF5A3000350777 /* InfoPlist.strings */; };
+		2FB5E13816AF5A3000350777 /* XcodeEditor-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0E816AF5A3000350777 /* XcodeEditor-Info.plist */; };
+		2FB5E13916AF5A3000350777 /* XCKeyBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0ED16AF5A3000350777 /* XCKeyBuilder.m */; };
+		2FB5E13A16AF5A3000350777 /* XCAbstractDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0F016AF5A3000350777 /* XCAbstractDefinition.m */; };
+		2FB5E13B16AF5A3000350777 /* XCBuildConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0F216AF5A3000350777 /* XCBuildConfiguration.m */; };
+		2FB5E13C16AF5A3000350777 /* XCClassDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0F416AF5A3000350777 /* XCClassDefinition.m */; };
+		2FB5E13D16AF5A3000350777 /* XCFileOperationQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0F616AF5A3000350777 /* XCFileOperationQueue.m */; };
+		2FB5E13E16AF5A3000350777 /* XCFrameworkDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0F816AF5A3000350777 /* XCFrameworkDefinition.m */; };
+		2FB5E13F16AF5A3000350777 /* XCGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0FA16AF5A3000350777 /* XCGroup.m */; };
+		2FB5E14016AF5A3000350777 /* XcodeMemberType.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0FE16AF5A3000350777 /* XcodeMemberType.m */; };
+		2FB5E14116AF5A3000350777 /* XcodeSourceFileType.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10016AF5A3000350777 /* XcodeSourceFileType.m */; };
+		2FB5E14216AF5A3000350777 /* XCProject+SubProject.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10216AF5A3000350777 /* XCProject+SubProject.m */; };
+		2FB5E14316AF5A3000350777 /* XCProject.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10416AF5A3000350777 /* XCProject.m */; };
+		2FB5E14416AF5A3000350777 /* XCSourceFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10616AF5A3000350777 /* XCSourceFile.m */; };
+		2FB5E14516AF5A3000350777 /* XCSourceFileDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10816AF5A3000350777 /* XCSourceFileDefinition.m */; };
+		2FB5E14616AF5A3000350777 /* XCSubProjectDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10A16AF5A3000350777 /* XCSubProjectDefinition.m */; };
+		2FB5E14716AF5A3000350777 /* XCTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10C16AF5A3000350777 /* XCTarget.m */; };
+		2FB5E14816AF5A3000350777 /* XCXibDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E10E16AF5A3000350777 /* XCXibDefinition.m */; };
+		2FB5E14916AF5A3000350777 /* ClassDefinitionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E11016AF5A3000350777 /* ClassDefinitionTests.m */; };
+		2FB5E14A16AF5A3000350777 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11116AF5A3000350777 /* InfoPlist.strings */; };
+		2FB5E14B16AF5A3000350777 /* GroupTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E11316AF5A3000350777 /* GroupTests.m */; };
+		2FB5E14C16AF5A3000350777 /* KeyBuilderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E11416AF5A3000350777 /* KeyBuilderTests.m */; };
+		2FB5E14D16AF5A3000350777 /* ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E11516AF5A3000350777 /* ProjectTests.m */; };
+		2FB5E14E16AF5A3000350777 /* ArchiveProj.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11716AF5A3000350777 /* ArchiveProj.zip */; };
+		2FB5E14F16AF5A3000350777 /* ESA.Sales.Foobar.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11816AF5A3000350777 /* ESA.Sales.Foobar.xib */; };
+		2FB5E15016AF5A3000350777 /* ESA_Sales_Foobar_ViewController.header in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11916AF5A3000350777 /* ESA_Sales_Foobar_ViewController.header */; };
+		2FB5E15116AF5A3000350777 /* ESA_Sales_Foobar_ViewController.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11A16AF5A3000350777 /* ESA_Sales_Foobar_ViewController.impl */; };
+		2FB5E15216AF5A3000350777 /* expanz-iOS-SDK.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11B16AF5A3000350777 /* expanz-iOS-SDK.zip */; };
+		2FB5E15316AF5A3000350777 /* goat-funny.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11C16AF5A3000350777 /* goat-funny.png */; };
+		2FB5E15416AF5A3000350777 /* HelloBoxy.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11D16AF5A3000350777 /* HelloBoxy.zip */; };
+		2FB5E15516AF5A3000350777 /* HelloWorldLayer.header in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11E16AF5A3000350777 /* HelloWorldLayer.header */; };
+		2FB5E15616AF5A3000350777 /* HelloWorldLayer.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E11F16AF5A3000350777 /* HelloWorldLayer.impl */; };
+		2FB5E15716AF5A3000350777 /* Person.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E12016AF5A3000350777 /* Person.impl */; };
+		2FB5E15816AF5A3000350777 /* project.pbxproj in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E12116AF5A3000350777 /* project.pbxproj */; };
+		2FB5E15916AF5A3000350777 /* SubProjectDefinitionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E12216AF5A3000350777 /* SubProjectDefinitionTests.m */; };
+		2FB5E15A16AF5A3000350777 /* TargetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E12316AF5A3000350777 /* TargetTests.m */; };
+		2FB5E15B16AF5A3000350777 /* Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E12416AF5A3000350777 /* Tests-Info.plist */; };
+		2FB5E15C16AF5A3000350777 /* NSString+TestResource.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E12816AF5A3000350777 /* NSString+TestResource.m */; };
+		2FB5E15D16AF5A3000350777 /* XcodeFileReferenceTypeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E12916AF5A3000350777 /* XcodeFileReferenceTypeTests.m */; };
+		2FB5E15E16AF5A3000350777 /* target in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E12A16AF5A3000350777 /* target */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2FB5E16116AF5A3100350777 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FB5E12B16AF5A3000350777 /* xcode-editor.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6B55223614EA723700494CF3;
+			remoteInfo = Tests;
+		};
+		2FB5E16316AF5A3100350777 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FB5E12B16AF5A3000350777 /* xcode-editor.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6B3ACFE014F8A2FE00BCFE81;
+			remoteInfo = XcodeEditor;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		2FB5E0B216AF4BDF00350777 /* XProjectBuilder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XProjectBuilder.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -29,6 +92,77 @@
 		2FB5E0C816AF4BE000350777 /* ARAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARAppDelegate.h; sourceTree = "<group>"; };
 		2FB5E0C916AF4BE000350777 /* ARAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARAppDelegate.m; sourceTree = "<group>"; };
 		2FB5E0CC16AF4BE000350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		2FB5E0D916AF5A3000350777 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2FB5E0DA16AF5A3000350777 /* build-configuration.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "build-configuration.properties"; sourceTree = "<group>"; };
+		2FB5E0DB16AF5A3000350777 /* build.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = build.xml; sourceTree = "<group>"; };
+		2FB5E0DF16AF5A3000350777 /* OCLogTemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCLogTemplate.h; sourceTree = "<group>"; };
+		2FB5E0E016AF5A3000350777 /* OCHamcrest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OCHamcrest.framework; sourceTree = "<group>"; };
+		2FB5E0E116AF5A3000350777 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		2FB5E0E216AF5A3000350777 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		2FB5E0E716AF5A3000350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2FB5E0E816AF5A3000350777 /* XcodeEditor-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "XcodeEditor-Info.plist"; sourceTree = "<group>"; };
+		2FB5E0E916AF5A3000350777 /* XcodeEditor-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "XcodeEditor-Prefix.pch"; sourceTree = "<group>"; };
+		2FB5E0EB16AF5A3000350777 /* XCEnumUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCEnumUtils.h; sourceTree = "<group>"; };
+		2FB5E0EC16AF5A3000350777 /* XCKeyBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCKeyBuilder.h; sourceTree = "<group>"; };
+		2FB5E0ED16AF5A3000350777 /* XCKeyBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCKeyBuilder.m; sourceTree = "<group>"; };
+		2FB5E0EE16AF5A3000350777 /* XCMemoryUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCMemoryUtils.h; sourceTree = "<group>"; };
+		2FB5E0EF16AF5A3000350777 /* XCAbstractDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCAbstractDefinition.h; sourceTree = "<group>"; };
+		2FB5E0F016AF5A3000350777 /* XCAbstractDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCAbstractDefinition.m; sourceTree = "<group>"; };
+		2FB5E0F116AF5A3000350777 /* XCBuildConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCBuildConfiguration.h; sourceTree = "<group>"; };
+		2FB5E0F216AF5A3000350777 /* XCBuildConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCBuildConfiguration.m; sourceTree = "<group>"; };
+		2FB5E0F316AF5A3000350777 /* XCClassDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCClassDefinition.h; sourceTree = "<group>"; };
+		2FB5E0F416AF5A3000350777 /* XCClassDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCClassDefinition.m; sourceTree = "<group>"; };
+		2FB5E0F516AF5A3000350777 /* XCFileOperationQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCFileOperationQueue.h; sourceTree = "<group>"; };
+		2FB5E0F616AF5A3000350777 /* XCFileOperationQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCFileOperationQueue.m; sourceTree = "<group>"; };
+		2FB5E0F716AF5A3000350777 /* XCFrameworkDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCFrameworkDefinition.h; sourceTree = "<group>"; };
+		2FB5E0F816AF5A3000350777 /* XCFrameworkDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCFrameworkDefinition.m; sourceTree = "<group>"; };
+		2FB5E0F916AF5A3000350777 /* XCGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCGroup.h; sourceTree = "<group>"; };
+		2FB5E0FA16AF5A3000350777 /* XCGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCGroup.m; sourceTree = "<group>"; };
+		2FB5E0FB16AF5A3000350777 /* XcodeEditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeEditor.h; sourceTree = "<group>"; };
+		2FB5E0FC16AF5A3000350777 /* XcodeGroupMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeGroupMember.h; sourceTree = "<group>"; };
+		2FB5E0FD16AF5A3000350777 /* XcodeMemberType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeMemberType.h; sourceTree = "<group>"; };
+		2FB5E0FE16AF5A3000350777 /* XcodeMemberType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeMemberType.m; sourceTree = "<group>"; };
+		2FB5E0FF16AF5A3000350777 /* XcodeSourceFileType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeSourceFileType.h; sourceTree = "<group>"; };
+		2FB5E10016AF5A3000350777 /* XcodeSourceFileType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeSourceFileType.m; sourceTree = "<group>"; };
+		2FB5E10116AF5A3000350777 /* XCProject+SubProject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "XCProject+SubProject.h"; sourceTree = "<group>"; };
+		2FB5E10216AF5A3000350777 /* XCProject+SubProject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "XCProject+SubProject.m"; sourceTree = "<group>"; };
+		2FB5E10316AF5A3000350777 /* XCProject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCProject.h; sourceTree = "<group>"; };
+		2FB5E10416AF5A3000350777 /* XCProject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCProject.m; sourceTree = "<group>"; };
+		2FB5E10516AF5A3000350777 /* XCSourceFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSourceFile.h; sourceTree = "<group>"; };
+		2FB5E10616AF5A3000350777 /* XCSourceFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSourceFile.m; sourceTree = "<group>"; };
+		2FB5E10716AF5A3000350777 /* XCSourceFileDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSourceFileDefinition.h; sourceTree = "<group>"; };
+		2FB5E10816AF5A3000350777 /* XCSourceFileDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSourceFileDefinition.m; sourceTree = "<group>"; };
+		2FB5E10916AF5A3000350777 /* XCSubProjectDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSubProjectDefinition.h; sourceTree = "<group>"; };
+		2FB5E10A16AF5A3000350777 /* XCSubProjectDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSubProjectDefinition.m; sourceTree = "<group>"; };
+		2FB5E10B16AF5A3000350777 /* XCTarget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCTarget.h; sourceTree = "<group>"; };
+		2FB5E10C16AF5A3000350777 /* XCTarget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCTarget.m; sourceTree = "<group>"; };
+		2FB5E10D16AF5A3000350777 /* XCXibDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCXibDefinition.h; sourceTree = "<group>"; };
+		2FB5E10E16AF5A3000350777 /* XCXibDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCXibDefinition.m; sourceTree = "<group>"; };
+		2FB5E11016AF5A3000350777 /* ClassDefinitionTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassDefinitionTests.m; sourceTree = "<group>"; };
+		2FB5E11216AF5A3000350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2FB5E11316AF5A3000350777 /* GroupTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupTests.m; sourceTree = "<group>"; };
+		2FB5E11416AF5A3000350777 /* KeyBuilderTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyBuilderTests.m; sourceTree = "<group>"; };
+		2FB5E11516AF5A3000350777 /* ProjectTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProjectTests.m; sourceTree = "<group>"; };
+		2FB5E11716AF5A3000350777 /* ArchiveProj.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = ArchiveProj.zip; sourceTree = "<group>"; };
+		2FB5E11816AF5A3000350777 /* ESA.Sales.Foobar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ESA.Sales.Foobar.xib; sourceTree = "<group>"; };
+		2FB5E11916AF5A3000350777 /* ESA_Sales_Foobar_ViewController.header */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ESA_Sales_Foobar_ViewController.header; sourceTree = "<group>"; };
+		2FB5E11A16AF5A3000350777 /* ESA_Sales_Foobar_ViewController.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ESA_Sales_Foobar_ViewController.impl; sourceTree = "<group>"; };
+		2FB5E11B16AF5A3000350777 /* expanz-iOS-SDK.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "expanz-iOS-SDK.zip"; sourceTree = "<group>"; };
+		2FB5E11C16AF5A3000350777 /* goat-funny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "goat-funny.png"; sourceTree = "<group>"; };
+		2FB5E11D16AF5A3000350777 /* HelloBoxy.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = HelloBoxy.zip; sourceTree = "<group>"; };
+		2FB5E11E16AF5A3000350777 /* HelloWorldLayer.header */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HelloWorldLayer.header; sourceTree = "<group>"; };
+		2FB5E11F16AF5A3000350777 /* HelloWorldLayer.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HelloWorldLayer.impl; sourceTree = "<group>"; };
+		2FB5E12016AF5A3000350777 /* Person.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Person.impl; sourceTree = "<group>"; };
+		2FB5E12116AF5A3000350777 /* project.pbxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.pbxproject; path = project.pbxproj; sourceTree = "<group>"; };
+		2FB5E12216AF5A3000350777 /* SubProjectDefinitionTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubProjectDefinitionTests.m; sourceTree = "<group>"; };
+		2FB5E12316AF5A3000350777 /* TargetTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TargetTests.m; sourceTree = "<group>"; };
+		2FB5E12416AF5A3000350777 /* Tests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
+		2FB5E12516AF5A3000350777 /* Tests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
+		2FB5E12716AF5A3000350777 /* NSString+TestResource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+TestResource.h"; sourceTree = "<group>"; };
+		2FB5E12816AF5A3000350777 /* NSString+TestResource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TestResource.m"; sourceTree = "<group>"; };
+		2FB5E12916AF5A3000350777 /* XcodeFileReferenceTypeTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeFileReferenceTypeTests.m; sourceTree = "<group>"; };
+		2FB5E12A16AF5A3000350777 /* target */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = target; sourceTree = "<group>"; };
+		2FB5E12B16AF5A3000350777 /* xcode-editor.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "xcode-editor.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FB5E0B716AF4BDF00350777 /* Cocoa.framework in Frameworks */,
+				2FB5E13416AF5A3000350777 /* OCHamcrest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -46,6 +181,7 @@
 		2FB5E0A716AF4BDF00350777 = {
 			isa = PBXGroup;
 			children = (
+				2FB5E0D716AF5A3000350777 /* libs */,
 				2FB5E0BC16AF4BDF00350777 /* XProjectBuilder */,
 				2FB5E0B516AF4BDF00350777 /* Frameworks */,
 				2FB5E0B316AF4BDF00350777 /* Products */,
@@ -102,6 +238,182 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		2FB5E0D716AF5A3000350777 /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0D816AF5A3000350777 /* xcode-editor */,
+			);
+			name = libs;
+			path = XProjectBuilder/libs;
+			sourceTree = "<group>";
+		};
+		2FB5E0D816AF5A3000350777 /* xcode-editor */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0D916AF5A3000350777 /* .gitignore */,
+				2FB5E0DA16AF5A3000350777 /* build-configuration.properties */,
+				2FB5E0DB16AF5A3000350777 /* build.xml */,
+				2FB5E0DC16AF5A3000350777 /* Dependencies */,
+				2FB5E0E116AF5A3000350777 /* LICENSE */,
+				2FB5E0E216AF5A3000350777 /* README.md */,
+				2FB5E0E316AF5A3000350777 /* Source */,
+				2FB5E12A16AF5A3000350777 /* target */,
+				2FB5E12B16AF5A3000350777 /* xcode-editor.xcodeproj */,
+			);
+			path = "xcode-editor";
+			sourceTree = "<group>";
+		};
+		2FB5E0DC16AF5A3000350777 /* Dependencies */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0DD16AF5A3000350777 /* External */,
+				2FB5E0E016AF5A3000350777 /* OCHamcrest.framework */,
+			);
+			path = Dependencies;
+			sourceTree = "<group>";
+		};
+		2FB5E0DD16AF5A3000350777 /* External */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0DE16AF5A3000350777 /* OCLogTemplate */,
+			);
+			path = External;
+			sourceTree = "<group>";
+		};
+		2FB5E0DE16AF5A3000350777 /* OCLogTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0DF16AF5A3000350777 /* OCLogTemplate.h */,
+			);
+			path = OCLogTemplate;
+			sourceTree = "<group>";
+		};
+		2FB5E0E316AF5A3000350777 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0E416AF5A3000350777 /* Main */,
+				2FB5E10F16AF5A3000350777 /* Tests */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		2FB5E0E416AF5A3000350777 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0E516AF5A3000350777 /* Resources */,
+				2FB5E0EA16AF5A3000350777 /* Utils */,
+				2FB5E0EF16AF5A3000350777 /* XCAbstractDefinition.h */,
+				2FB5E0F016AF5A3000350777 /* XCAbstractDefinition.m */,
+				2FB5E0F116AF5A3000350777 /* XCBuildConfiguration.h */,
+				2FB5E0F216AF5A3000350777 /* XCBuildConfiguration.m */,
+				2FB5E0F316AF5A3000350777 /* XCClassDefinition.h */,
+				2FB5E0F416AF5A3000350777 /* XCClassDefinition.m */,
+				2FB5E0F516AF5A3000350777 /* XCFileOperationQueue.h */,
+				2FB5E0F616AF5A3000350777 /* XCFileOperationQueue.m */,
+				2FB5E0F716AF5A3000350777 /* XCFrameworkDefinition.h */,
+				2FB5E0F816AF5A3000350777 /* XCFrameworkDefinition.m */,
+				2FB5E0F916AF5A3000350777 /* XCGroup.h */,
+				2FB5E0FA16AF5A3000350777 /* XCGroup.m */,
+				2FB5E0FB16AF5A3000350777 /* XcodeEditor.h */,
+				2FB5E0FC16AF5A3000350777 /* XcodeGroupMember.h */,
+				2FB5E0FD16AF5A3000350777 /* XcodeMemberType.h */,
+				2FB5E0FE16AF5A3000350777 /* XcodeMemberType.m */,
+				2FB5E0FF16AF5A3000350777 /* XcodeSourceFileType.h */,
+				2FB5E10016AF5A3000350777 /* XcodeSourceFileType.m */,
+				2FB5E10116AF5A3000350777 /* XCProject+SubProject.h */,
+				2FB5E10216AF5A3000350777 /* XCProject+SubProject.m */,
+				2FB5E10316AF5A3000350777 /* XCProject.h */,
+				2FB5E10416AF5A3000350777 /* XCProject.m */,
+				2FB5E10516AF5A3000350777 /* XCSourceFile.h */,
+				2FB5E10616AF5A3000350777 /* XCSourceFile.m */,
+				2FB5E10716AF5A3000350777 /* XCSourceFileDefinition.h */,
+				2FB5E10816AF5A3000350777 /* XCSourceFileDefinition.m */,
+				2FB5E10916AF5A3000350777 /* XCSubProjectDefinition.h */,
+				2FB5E10A16AF5A3000350777 /* XCSubProjectDefinition.m */,
+				2FB5E10B16AF5A3000350777 /* XCTarget.h */,
+				2FB5E10C16AF5A3000350777 /* XCTarget.m */,
+				2FB5E10D16AF5A3000350777 /* XCXibDefinition.h */,
+				2FB5E10E16AF5A3000350777 /* XCXibDefinition.m */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		2FB5E0E516AF5A3000350777 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0E616AF5A3000350777 /* InfoPlist.strings */,
+				2FB5E0E816AF5A3000350777 /* XcodeEditor-Info.plist */,
+				2FB5E0E916AF5A3000350777 /* XcodeEditor-Prefix.pch */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2FB5E0EA16AF5A3000350777 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E0EB16AF5A3000350777 /* XCEnumUtils.h */,
+				2FB5E0EC16AF5A3000350777 /* XCKeyBuilder.h */,
+				2FB5E0ED16AF5A3000350777 /* XCKeyBuilder.m */,
+				2FB5E0EE16AF5A3000350777 /* XCMemoryUtils.h */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		2FB5E10F16AF5A3000350777 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E11016AF5A3000350777 /* ClassDefinitionTests.m */,
+				2FB5E11116AF5A3000350777 /* InfoPlist.strings */,
+				2FB5E11316AF5A3000350777 /* GroupTests.m */,
+				2FB5E11416AF5A3000350777 /* KeyBuilderTests.m */,
+				2FB5E11516AF5A3000350777 /* ProjectTests.m */,
+				2FB5E11616AF5A3000350777 /* Resources */,
+				2FB5E12216AF5A3000350777 /* SubProjectDefinitionTests.m */,
+				2FB5E12316AF5A3000350777 /* TargetTests.m */,
+				2FB5E12416AF5A3000350777 /* Tests-Info.plist */,
+				2FB5E12516AF5A3000350777 /* Tests-Prefix.pch */,
+				2FB5E12616AF5A3000350777 /* Utils */,
+				2FB5E12916AF5A3000350777 /* XcodeFileReferenceTypeTests.m */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		2FB5E11616AF5A3000350777 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E11716AF5A3000350777 /* ArchiveProj.zip */,
+				2FB5E11816AF5A3000350777 /* ESA.Sales.Foobar.xib */,
+				2FB5E11916AF5A3000350777 /* ESA_Sales_Foobar_ViewController.header */,
+				2FB5E11A16AF5A3000350777 /* ESA_Sales_Foobar_ViewController.impl */,
+				2FB5E11B16AF5A3000350777 /* expanz-iOS-SDK.zip */,
+				2FB5E11C16AF5A3000350777 /* goat-funny.png */,
+				2FB5E11D16AF5A3000350777 /* HelloBoxy.zip */,
+				2FB5E11E16AF5A3000350777 /* HelloWorldLayer.header */,
+				2FB5E11F16AF5A3000350777 /* HelloWorldLayer.impl */,
+				2FB5E12016AF5A3000350777 /* Person.impl */,
+				2FB5E12116AF5A3000350777 /* project.pbxproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2FB5E12616AF5A3000350777 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E12716AF5A3000350777 /* NSString+TestResource.h */,
+				2FB5E12816AF5A3000350777 /* NSString+TestResource.m */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		2FB5E12C16AF5A3000350777 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2FB5E16216AF5A3100350777 /* Tests.octest */,
+				2FB5E16416AF5A3100350777 /* XcodeEditor.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -142,12 +454,35 @@
 			mainGroup = 2FB5E0A716AF4BDF00350777;
 			productRefGroup = 2FB5E0B316AF4BDF00350777 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 2FB5E12C16AF5A3000350777 /* Products */;
+					ProjectRef = 2FB5E12B16AF5A3000350777 /* xcode-editor.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				2FB5E0B116AF4BDF00350777 /* XProjectBuilder */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		2FB5E16216AF5A3100350777 /* Tests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Tests.octest;
+			remoteRef = 2FB5E16116AF5A3100350777 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		2FB5E16416AF5A3100350777 /* XcodeEditor.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = XcodeEditor.framework;
+			remoteRef = 2FB5E16316AF5A3100350777 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		2FB5E0B016AF4BDF00350777 /* Resources */ = {
@@ -157,6 +492,27 @@
 				2FB5E0C116AF4BE000350777 /* InfoPlist.strings in Resources */,
 				2FB5E0C716AF4BE000350777 /* Credits.rtf in Resources */,
 				2FB5E0CD16AF4BE000350777 /* MainMenu.xib in Resources */,
+				2FB5E13116AF5A3000350777 /* .gitignore in Resources */,
+				2FB5E13216AF5A3000350777 /* build-configuration.properties in Resources */,
+				2FB5E13316AF5A3000350777 /* build.xml in Resources */,
+				2FB5E13516AF5A3000350777 /* LICENSE in Resources */,
+				2FB5E13616AF5A3000350777 /* README.md in Resources */,
+				2FB5E13716AF5A3000350777 /* InfoPlist.strings in Resources */,
+				2FB5E13816AF5A3000350777 /* XcodeEditor-Info.plist in Resources */,
+				2FB5E14A16AF5A3000350777 /* InfoPlist.strings in Resources */,
+				2FB5E14E16AF5A3000350777 /* ArchiveProj.zip in Resources */,
+				2FB5E14F16AF5A3000350777 /* ESA.Sales.Foobar.xib in Resources */,
+				2FB5E15016AF5A3000350777 /* ESA_Sales_Foobar_ViewController.header in Resources */,
+				2FB5E15116AF5A3000350777 /* ESA_Sales_Foobar_ViewController.impl in Resources */,
+				2FB5E15216AF5A3000350777 /* expanz-iOS-SDK.zip in Resources */,
+				2FB5E15316AF5A3000350777 /* goat-funny.png in Resources */,
+				2FB5E15416AF5A3000350777 /* HelloBoxy.zip in Resources */,
+				2FB5E15516AF5A3000350777 /* HelloWorldLayer.header in Resources */,
+				2FB5E15616AF5A3000350777 /* HelloWorldLayer.impl in Resources */,
+				2FB5E15716AF5A3000350777 /* Person.impl in Resources */,
+				2FB5E15816AF5A3000350777 /* project.pbxproj in Resources */,
+				2FB5E15B16AF5A3000350777 /* Tests-Info.plist in Resources */,
+				2FB5E15E16AF5A3000350777 /* target in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,6 +525,30 @@
 			files = (
 				2FB5E0C316AF4BE000350777 /* main.m in Sources */,
 				2FB5E0CA16AF4BE000350777 /* ARAppDelegate.m in Sources */,
+				2FB5E13916AF5A3000350777 /* XCKeyBuilder.m in Sources */,
+				2FB5E13A16AF5A3000350777 /* XCAbstractDefinition.m in Sources */,
+				2FB5E13B16AF5A3000350777 /* XCBuildConfiguration.m in Sources */,
+				2FB5E13C16AF5A3000350777 /* XCClassDefinition.m in Sources */,
+				2FB5E13D16AF5A3000350777 /* XCFileOperationQueue.m in Sources */,
+				2FB5E13E16AF5A3000350777 /* XCFrameworkDefinition.m in Sources */,
+				2FB5E13F16AF5A3000350777 /* XCGroup.m in Sources */,
+				2FB5E14016AF5A3000350777 /* XcodeMemberType.m in Sources */,
+				2FB5E14116AF5A3000350777 /* XcodeSourceFileType.m in Sources */,
+				2FB5E14216AF5A3000350777 /* XCProject+SubProject.m in Sources */,
+				2FB5E14316AF5A3000350777 /* XCProject.m in Sources */,
+				2FB5E14416AF5A3000350777 /* XCSourceFile.m in Sources */,
+				2FB5E14516AF5A3000350777 /* XCSourceFileDefinition.m in Sources */,
+				2FB5E14616AF5A3000350777 /* XCSubProjectDefinition.m in Sources */,
+				2FB5E14716AF5A3000350777 /* XCTarget.m in Sources */,
+				2FB5E14816AF5A3000350777 /* XCXibDefinition.m in Sources */,
+				2FB5E14916AF5A3000350777 /* ClassDefinitionTests.m in Sources */,
+				2FB5E14B16AF5A3000350777 /* GroupTests.m in Sources */,
+				2FB5E14C16AF5A3000350777 /* KeyBuilderTests.m in Sources */,
+				2FB5E14D16AF5A3000350777 /* ProjectTests.m in Sources */,
+				2FB5E15916AF5A3000350777 /* SubProjectDefinitionTests.m in Sources */,
+				2FB5E15A16AF5A3000350777 /* TargetTests.m in Sources */,
+				2FB5E15C16AF5A3000350777 /* NSString+TestResource.m in Sources */,
+				2FB5E15D16AF5A3000350777 /* XcodeFileReferenceTypeTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,6 +577,22 @@
 				2FB5E0CC16AF4BE000350777 /* en */,
 			);
 			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		2FB5E0E616AF5A3000350777 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2FB5E0E716AF5A3000350777 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2FB5E11116AF5A3000350777 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2FB5E11216AF5A3000350777 /* en */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -259,6 +655,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/XProjectBuilder/libs/xcode-editor/Dependencies\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XProjectBuilder/XProjectBuilder-Prefix.pch";
 				INFOPLIST_FILE = "XProjectBuilder/XProjectBuilder-Info.plist";
@@ -271,6 +671,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/XProjectBuilder/libs/xcode-editor/Dependencies\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XProjectBuilder/XProjectBuilder-Prefix.pch";
 				INFOPLIST_FILE = "XProjectBuilder/XProjectBuilder-Info.plist";
@@ -298,6 +702,7 @@
 				2FB5E0D216AF4BE000350777 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
