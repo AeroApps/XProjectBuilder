@@ -7,12 +7,16 @@
 //
 
 #import "ARAppDelegate.h"
+#import "XCProject.h"
 
 @implementation ARAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
+    
+    XCProject* project = [[XCProject alloc] initWithFilePath:@"MyProject.xcodeproj"];
+//    XCGroup* group = [project groupWithPathFromRoot:@"Main"];
 }
 
 @end
