@@ -13,70 +13,7 @@
 		2FB5E0C716AF4BE000350777 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0C516AF4BE000350777 /* Credits.rtf */; };
 		2FB5E0CA16AF4BE000350777 /* ARAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E0C916AF4BE000350777 /* ARAppDelegate.m */; };
 		2FB5E0CD16AF4BE000350777 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E0CB16AF4BE000350777 /* MainMenu.xib */; };
-		2FB5E25316AF6A3500350777 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E1FB16AF6A3500350777 /* .gitignore */; };
-		2FB5E25416AF6A3500350777 /* build-configuration.properties in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E1FC16AF6A3500350777 /* build-configuration.properties */; };
-		2FB5E25516AF6A3500350777 /* build.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E1FD16AF6A3500350777 /* build.xml */; };
-		2FB5E25616AF6A3500350777 /* OCHamcrest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FB5E20216AF6A3500350777 /* OCHamcrest.framework */; };
-		2FB5E25716AF6A3500350777 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E20316AF6A3500350777 /* LICENSE */; };
-		2FB5E25816AF6A3500350777 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E20416AF6A3500350777 /* README.md */; };
-		2FB5E25916AF6A3500350777 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E20816AF6A3500350777 /* InfoPlist.strings */; };
-		2FB5E25A16AF6A3500350777 /* XcodeEditor-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E20A16AF6A3500350777 /* XcodeEditor-Info.plist */; };
-		2FB5E25B16AF6A3500350777 /* XCKeyBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E20F16AF6A3500350777 /* XCKeyBuilder.m */; };
-		2FB5E25C16AF6A3500350777 /* XCAbstractDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21216AF6A3500350777 /* XCAbstractDefinition.m */; };
-		2FB5E25D16AF6A3500350777 /* XCBuildConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21416AF6A3500350777 /* XCBuildConfiguration.m */; };
-		2FB5E25E16AF6A3500350777 /* XCClassDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21616AF6A3500350777 /* XCClassDefinition.m */; };
-		2FB5E25F16AF6A3500350777 /* XCFileOperationQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21816AF6A3500350777 /* XCFileOperationQueue.m */; };
-		2FB5E26016AF6A3500350777 /* XCFrameworkDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21A16AF6A3500350777 /* XCFrameworkDefinition.m */; };
-		2FB5E26116AF6A3500350777 /* XCGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E21C16AF6A3500350777 /* XCGroup.m */; };
-		2FB5E26216AF6A3500350777 /* XcodeMemberType.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22016AF6A3500350777 /* XcodeMemberType.m */; };
-		2FB5E26316AF6A3500350777 /* XcodeSourceFileType.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22216AF6A3500350777 /* XcodeSourceFileType.m */; };
-		2FB5E26416AF6A3500350777 /* XCProject+SubProject.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22416AF6A3500350777 /* XCProject+SubProject.m */; };
-		2FB5E26516AF6A3500350777 /* XCProject.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22616AF6A3500350777 /* XCProject.m */; };
-		2FB5E26616AF6A3500350777 /* XCSourceFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22816AF6A3500350777 /* XCSourceFile.m */; };
-		2FB5E26716AF6A3500350777 /* XCSourceFileDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22A16AF6A3500350777 /* XCSourceFileDefinition.m */; };
-		2FB5E26816AF6A3500350777 /* XCSubProjectDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22C16AF6A3500350777 /* XCSubProjectDefinition.m */; };
-		2FB5E26916AF6A3500350777 /* XCTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E22E16AF6A3500350777 /* XCTarget.m */; };
-		2FB5E26A16AF6A3500350777 /* XCXibDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E23016AF6A3500350777 /* XCXibDefinition.m */; };
-		2FB5E26B16AF6A3500350777 /* ClassDefinitionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E23216AF6A3500350777 /* ClassDefinitionTests.m */; };
-		2FB5E26C16AF6A3500350777 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23316AF6A3500350777 /* InfoPlist.strings */; };
-		2FB5E26D16AF6A3500350777 /* GroupTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E23516AF6A3500350777 /* GroupTests.m */; };
-		2FB5E26E16AF6A3500350777 /* KeyBuilderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E23616AF6A3500350777 /* KeyBuilderTests.m */; };
-		2FB5E26F16AF6A3500350777 /* ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E23716AF6A3500350777 /* ProjectTests.m */; };
-		2FB5E27016AF6A3500350777 /* ArchiveProj.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23916AF6A3500350777 /* ArchiveProj.zip */; };
-		2FB5E27116AF6A3500350777 /* ESA.Sales.Foobar.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23A16AF6A3500350777 /* ESA.Sales.Foobar.xib */; };
-		2FB5E27216AF6A3500350777 /* ESA_Sales_Foobar_ViewController.header in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23B16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.header */; };
-		2FB5E27316AF6A3500350777 /* ESA_Sales_Foobar_ViewController.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23C16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.impl */; };
-		2FB5E27416AF6A3500350777 /* expanz-iOS-SDK.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23D16AF6A3500350777 /* expanz-iOS-SDK.zip */; };
-		2FB5E27516AF6A3500350777 /* goat-funny.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23E16AF6A3500350777 /* goat-funny.png */; };
-		2FB5E27616AF6A3500350777 /* HelloBoxy.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E23F16AF6A3500350777 /* HelloBoxy.zip */; };
-		2FB5E27716AF6A3500350777 /* HelloWorldLayer.header in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24016AF6A3500350777 /* HelloWorldLayer.header */; };
-		2FB5E27816AF6A3500350777 /* HelloWorldLayer.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24116AF6A3500350777 /* HelloWorldLayer.impl */; };
-		2FB5E27916AF6A3500350777 /* Person.impl in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24216AF6A3500350777 /* Person.impl */; };
-		2FB5E27A16AF6A3500350777 /* project.pbxproj in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24316AF6A3500350777 /* project.pbxproj */; };
-		2FB5E27B16AF6A3500350777 /* SubProjectDefinitionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E24416AF6A3500350777 /* SubProjectDefinitionTests.m */; };
-		2FB5E27C16AF6A3500350777 /* TargetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E24516AF6A3500350777 /* TargetTests.m */; };
-		2FB5E27D16AF6A3500350777 /* Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24616AF6A3500350777 /* Tests-Info.plist */; };
-		2FB5E27E16AF6A3500350777 /* NSString+TestResource.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E24A16AF6A3500350777 /* NSString+TestResource.m */; };
-		2FB5E27F16AF6A3500350777 /* XcodeFileReferenceTypeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5E24B16AF6A3500350777 /* XcodeFileReferenceTypeTests.m */; };
-		2FB5E28016AF6A3500350777 /* target in Resources */ = {isa = PBXBuildFile; fileRef = 2FB5E24C16AF6A3500350777 /* target */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		2FB5E28316AF6A3600350777 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2FB5E24D16AF6A3500350777 /* xcode-editor.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 6B55223614EA723700494CF3;
-			remoteInfo = Tests;
-		};
-		2FB5E28516AF6A3600350777 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2FB5E24D16AF6A3500350777 /* xcode-editor.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 6B3ACFE014F8A2FE00BCFE81;
-			remoteInfo = XcodeEditor;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		2FB5E0B216AF4BDF00350777 /* XProjectBuilder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XProjectBuilder.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -92,77 +29,6 @@
 		2FB5E0C816AF4BE000350777 /* ARAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARAppDelegate.h; sourceTree = "<group>"; };
 		2FB5E0C916AF4BE000350777 /* ARAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARAppDelegate.m; sourceTree = "<group>"; };
 		2FB5E0CC16AF4BE000350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		2FB5E1FB16AF6A3500350777 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		2FB5E1FC16AF6A3500350777 /* build-configuration.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "build-configuration.properties"; sourceTree = "<group>"; };
-		2FB5E1FD16AF6A3500350777 /* build.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = build.xml; sourceTree = "<group>"; };
-		2FB5E20116AF6A3500350777 /* OCLogTemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCLogTemplate.h; sourceTree = "<group>"; };
-		2FB5E20216AF6A3500350777 /* OCHamcrest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OCHamcrest.framework; sourceTree = "<group>"; };
-		2FB5E20316AF6A3500350777 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		2FB5E20416AF6A3500350777 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		2FB5E20916AF6A3500350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2FB5E20A16AF6A3500350777 /* XcodeEditor-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "XcodeEditor-Info.plist"; sourceTree = "<group>"; };
-		2FB5E20B16AF6A3500350777 /* XcodeEditor-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "XcodeEditor-Prefix.pch"; sourceTree = "<group>"; };
-		2FB5E20D16AF6A3500350777 /* XCEnumUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCEnumUtils.h; sourceTree = "<group>"; };
-		2FB5E20E16AF6A3500350777 /* XCKeyBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCKeyBuilder.h; sourceTree = "<group>"; };
-		2FB5E20F16AF6A3500350777 /* XCKeyBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCKeyBuilder.m; sourceTree = "<group>"; };
-		2FB5E21016AF6A3500350777 /* XCMemoryUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCMemoryUtils.h; sourceTree = "<group>"; };
-		2FB5E21116AF6A3500350777 /* XCAbstractDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCAbstractDefinition.h; sourceTree = "<group>"; };
-		2FB5E21216AF6A3500350777 /* XCAbstractDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCAbstractDefinition.m; sourceTree = "<group>"; };
-		2FB5E21316AF6A3500350777 /* XCBuildConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCBuildConfiguration.h; sourceTree = "<group>"; };
-		2FB5E21416AF6A3500350777 /* XCBuildConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCBuildConfiguration.m; sourceTree = "<group>"; };
-		2FB5E21516AF6A3500350777 /* XCClassDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCClassDefinition.h; sourceTree = "<group>"; };
-		2FB5E21616AF6A3500350777 /* XCClassDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCClassDefinition.m; sourceTree = "<group>"; };
-		2FB5E21716AF6A3500350777 /* XCFileOperationQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCFileOperationQueue.h; sourceTree = "<group>"; };
-		2FB5E21816AF6A3500350777 /* XCFileOperationQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCFileOperationQueue.m; sourceTree = "<group>"; };
-		2FB5E21916AF6A3500350777 /* XCFrameworkDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCFrameworkDefinition.h; sourceTree = "<group>"; };
-		2FB5E21A16AF6A3500350777 /* XCFrameworkDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCFrameworkDefinition.m; sourceTree = "<group>"; };
-		2FB5E21B16AF6A3500350777 /* XCGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCGroup.h; sourceTree = "<group>"; };
-		2FB5E21C16AF6A3500350777 /* XCGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCGroup.m; sourceTree = "<group>"; };
-		2FB5E21D16AF6A3500350777 /* XcodeEditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeEditor.h; sourceTree = "<group>"; };
-		2FB5E21E16AF6A3500350777 /* XcodeGroupMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeGroupMember.h; sourceTree = "<group>"; };
-		2FB5E21F16AF6A3500350777 /* XcodeMemberType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeMemberType.h; sourceTree = "<group>"; };
-		2FB5E22016AF6A3500350777 /* XcodeMemberType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeMemberType.m; sourceTree = "<group>"; };
-		2FB5E22116AF6A3500350777 /* XcodeSourceFileType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XcodeSourceFileType.h; sourceTree = "<group>"; };
-		2FB5E22216AF6A3500350777 /* XcodeSourceFileType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeSourceFileType.m; sourceTree = "<group>"; };
-		2FB5E22316AF6A3500350777 /* XCProject+SubProject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "XCProject+SubProject.h"; sourceTree = "<group>"; };
-		2FB5E22416AF6A3500350777 /* XCProject+SubProject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "XCProject+SubProject.m"; sourceTree = "<group>"; };
-		2FB5E22516AF6A3500350777 /* XCProject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCProject.h; sourceTree = "<group>"; };
-		2FB5E22616AF6A3500350777 /* XCProject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCProject.m; sourceTree = "<group>"; };
-		2FB5E22716AF6A3500350777 /* XCSourceFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSourceFile.h; sourceTree = "<group>"; };
-		2FB5E22816AF6A3500350777 /* XCSourceFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSourceFile.m; sourceTree = "<group>"; };
-		2FB5E22916AF6A3500350777 /* XCSourceFileDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSourceFileDefinition.h; sourceTree = "<group>"; };
-		2FB5E22A16AF6A3500350777 /* XCSourceFileDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSourceFileDefinition.m; sourceTree = "<group>"; };
-		2FB5E22B16AF6A3500350777 /* XCSubProjectDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCSubProjectDefinition.h; sourceTree = "<group>"; };
-		2FB5E22C16AF6A3500350777 /* XCSubProjectDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCSubProjectDefinition.m; sourceTree = "<group>"; };
-		2FB5E22D16AF6A3500350777 /* XCTarget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCTarget.h; sourceTree = "<group>"; };
-		2FB5E22E16AF6A3500350777 /* XCTarget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCTarget.m; sourceTree = "<group>"; };
-		2FB5E22F16AF6A3500350777 /* XCXibDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCXibDefinition.h; sourceTree = "<group>"; };
-		2FB5E23016AF6A3500350777 /* XCXibDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCXibDefinition.m; sourceTree = "<group>"; };
-		2FB5E23216AF6A3500350777 /* ClassDefinitionTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassDefinitionTests.m; sourceTree = "<group>"; };
-		2FB5E23416AF6A3500350777 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2FB5E23516AF6A3500350777 /* GroupTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupTests.m; sourceTree = "<group>"; };
-		2FB5E23616AF6A3500350777 /* KeyBuilderTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyBuilderTests.m; sourceTree = "<group>"; };
-		2FB5E23716AF6A3500350777 /* ProjectTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProjectTests.m; sourceTree = "<group>"; };
-		2FB5E23916AF6A3500350777 /* ArchiveProj.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = ArchiveProj.zip; sourceTree = "<group>"; };
-		2FB5E23A16AF6A3500350777 /* ESA.Sales.Foobar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ESA.Sales.Foobar.xib; sourceTree = "<group>"; };
-		2FB5E23B16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.header */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ESA_Sales_Foobar_ViewController.header; sourceTree = "<group>"; };
-		2FB5E23C16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ESA_Sales_Foobar_ViewController.impl; sourceTree = "<group>"; };
-		2FB5E23D16AF6A3500350777 /* expanz-iOS-SDK.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "expanz-iOS-SDK.zip"; sourceTree = "<group>"; };
-		2FB5E23E16AF6A3500350777 /* goat-funny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "goat-funny.png"; sourceTree = "<group>"; };
-		2FB5E23F16AF6A3500350777 /* HelloBoxy.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = HelloBoxy.zip; sourceTree = "<group>"; };
-		2FB5E24016AF6A3500350777 /* HelloWorldLayer.header */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HelloWorldLayer.header; sourceTree = "<group>"; };
-		2FB5E24116AF6A3500350777 /* HelloWorldLayer.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HelloWorldLayer.impl; sourceTree = "<group>"; };
-		2FB5E24216AF6A3500350777 /* Person.impl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Person.impl; sourceTree = "<group>"; };
-		2FB5E24316AF6A3500350777 /* project.pbxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.pbxproject; path = project.pbxproj; sourceTree = "<group>"; };
-		2FB5E24416AF6A3500350777 /* SubProjectDefinitionTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubProjectDefinitionTests.m; sourceTree = "<group>"; };
-		2FB5E24516AF6A3500350777 /* TargetTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TargetTests.m; sourceTree = "<group>"; };
-		2FB5E24616AF6A3500350777 /* Tests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
-		2FB5E24716AF6A3500350777 /* Tests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		2FB5E24916AF6A3500350777 /* NSString+TestResource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+TestResource.h"; sourceTree = "<group>"; };
-		2FB5E24A16AF6A3500350777 /* NSString+TestResource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TestResource.m"; sourceTree = "<group>"; };
-		2FB5E24B16AF6A3500350777 /* XcodeFileReferenceTypeTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XcodeFileReferenceTypeTests.m; sourceTree = "<group>"; };
-		2FB5E24C16AF6A3500350777 /* target */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = target; sourceTree = "<group>"; };
-		2FB5E24D16AF6A3500350777 /* xcode-editor.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "xcode-editor.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,7 +37,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FB5E0B716AF4BDF00350777 /* Cocoa.framework in Frameworks */,
-				2FB5E25616AF6A3500350777 /* OCHamcrest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,176 +115,8 @@
 		2FB5E16716AF5BA700350777 /* External */ = {
 			isa = PBXGroup;
 			children = (
-				2FB5E1FA16AF6A3500350777 /* xcode-editor */,
 			);
 			path = External;
-			sourceTree = "<group>";
-		};
-		2FB5E1FA16AF6A3500350777 /* xcode-editor */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E1FB16AF6A3500350777 /* .gitignore */,
-				2FB5E1FC16AF6A3500350777 /* build-configuration.properties */,
-				2FB5E1FD16AF6A3500350777 /* build.xml */,
-				2FB5E1FE16AF6A3500350777 /* Dependencies */,
-				2FB5E20316AF6A3500350777 /* LICENSE */,
-				2FB5E20416AF6A3500350777 /* README.md */,
-				2FB5E20516AF6A3500350777 /* Source */,
-				2FB5E24C16AF6A3500350777 /* target */,
-				2FB5E24D16AF6A3500350777 /* xcode-editor.xcodeproj */,
-			);
-			path = "xcode-editor";
-			sourceTree = "<group>";
-		};
-		2FB5E1FE16AF6A3500350777 /* Dependencies */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E1FF16AF6A3500350777 /* External */,
-				2FB5E20216AF6A3500350777 /* OCHamcrest.framework */,
-			);
-			path = Dependencies;
-			sourceTree = "<group>";
-		};
-		2FB5E1FF16AF6A3500350777 /* External */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20016AF6A3500350777 /* OCLogTemplate */,
-			);
-			path = External;
-			sourceTree = "<group>";
-		};
-		2FB5E20016AF6A3500350777 /* OCLogTemplate */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20116AF6A3500350777 /* OCLogTemplate.h */,
-			);
-			path = OCLogTemplate;
-			sourceTree = "<group>";
-		};
-		2FB5E20516AF6A3500350777 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20616AF6A3500350777 /* Main */,
-				2FB5E23116AF6A3500350777 /* Tests */,
-			);
-			path = Source;
-			sourceTree = "<group>";
-		};
-		2FB5E20616AF6A3500350777 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20716AF6A3500350777 /* Resources */,
-				2FB5E20C16AF6A3500350777 /* Utils */,
-				2FB5E21116AF6A3500350777 /* XCAbstractDefinition.h */,
-				2FB5E21216AF6A3500350777 /* XCAbstractDefinition.m */,
-				2FB5E21316AF6A3500350777 /* XCBuildConfiguration.h */,
-				2FB5E21416AF6A3500350777 /* XCBuildConfiguration.m */,
-				2FB5E21516AF6A3500350777 /* XCClassDefinition.h */,
-				2FB5E21616AF6A3500350777 /* XCClassDefinition.m */,
-				2FB5E21716AF6A3500350777 /* XCFileOperationQueue.h */,
-				2FB5E21816AF6A3500350777 /* XCFileOperationQueue.m */,
-				2FB5E21916AF6A3500350777 /* XCFrameworkDefinition.h */,
-				2FB5E21A16AF6A3500350777 /* XCFrameworkDefinition.m */,
-				2FB5E21B16AF6A3500350777 /* XCGroup.h */,
-				2FB5E21C16AF6A3500350777 /* XCGroup.m */,
-				2FB5E21D16AF6A3500350777 /* XcodeEditor.h */,
-				2FB5E21E16AF6A3500350777 /* XcodeGroupMember.h */,
-				2FB5E21F16AF6A3500350777 /* XcodeMemberType.h */,
-				2FB5E22016AF6A3500350777 /* XcodeMemberType.m */,
-				2FB5E22116AF6A3500350777 /* XcodeSourceFileType.h */,
-				2FB5E22216AF6A3500350777 /* XcodeSourceFileType.m */,
-				2FB5E22316AF6A3500350777 /* XCProject+SubProject.h */,
-				2FB5E22416AF6A3500350777 /* XCProject+SubProject.m */,
-				2FB5E22516AF6A3500350777 /* XCProject.h */,
-				2FB5E22616AF6A3500350777 /* XCProject.m */,
-				2FB5E22716AF6A3500350777 /* XCSourceFile.h */,
-				2FB5E22816AF6A3500350777 /* XCSourceFile.m */,
-				2FB5E22916AF6A3500350777 /* XCSourceFileDefinition.h */,
-				2FB5E22A16AF6A3500350777 /* XCSourceFileDefinition.m */,
-				2FB5E22B16AF6A3500350777 /* XCSubProjectDefinition.h */,
-				2FB5E22C16AF6A3500350777 /* XCSubProjectDefinition.m */,
-				2FB5E22D16AF6A3500350777 /* XCTarget.h */,
-				2FB5E22E16AF6A3500350777 /* XCTarget.m */,
-				2FB5E22F16AF6A3500350777 /* XCXibDefinition.h */,
-				2FB5E23016AF6A3500350777 /* XCXibDefinition.m */,
-			);
-			path = Main;
-			sourceTree = "<group>";
-		};
-		2FB5E20716AF6A3500350777 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20816AF6A3500350777 /* InfoPlist.strings */,
-				2FB5E20A16AF6A3500350777 /* XcodeEditor-Info.plist */,
-				2FB5E20B16AF6A3500350777 /* XcodeEditor-Prefix.pch */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		2FB5E20C16AF6A3500350777 /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E20D16AF6A3500350777 /* XCEnumUtils.h */,
-				2FB5E20E16AF6A3500350777 /* XCKeyBuilder.h */,
-				2FB5E20F16AF6A3500350777 /* XCKeyBuilder.m */,
-				2FB5E21016AF6A3500350777 /* XCMemoryUtils.h */,
-			);
-			path = Utils;
-			sourceTree = "<group>";
-		};
-		2FB5E23116AF6A3500350777 /* Tests */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E23216AF6A3500350777 /* ClassDefinitionTests.m */,
-				2FB5E23316AF6A3500350777 /* InfoPlist.strings */,
-				2FB5E23516AF6A3500350777 /* GroupTests.m */,
-				2FB5E23616AF6A3500350777 /* KeyBuilderTests.m */,
-				2FB5E23716AF6A3500350777 /* ProjectTests.m */,
-				2FB5E23816AF6A3500350777 /* Resources */,
-				2FB5E24416AF6A3500350777 /* SubProjectDefinitionTests.m */,
-				2FB5E24516AF6A3500350777 /* TargetTests.m */,
-				2FB5E24616AF6A3500350777 /* Tests-Info.plist */,
-				2FB5E24716AF6A3500350777 /* Tests-Prefix.pch */,
-				2FB5E24816AF6A3500350777 /* Utils */,
-				2FB5E24B16AF6A3500350777 /* XcodeFileReferenceTypeTests.m */,
-			);
-			path = Tests;
-			sourceTree = "<group>";
-		};
-		2FB5E23816AF6A3500350777 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E23916AF6A3500350777 /* ArchiveProj.zip */,
-				2FB5E23A16AF6A3500350777 /* ESA.Sales.Foobar.xib */,
-				2FB5E23B16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.header */,
-				2FB5E23C16AF6A3500350777 /* ESA_Sales_Foobar_ViewController.impl */,
-				2FB5E23D16AF6A3500350777 /* expanz-iOS-SDK.zip */,
-				2FB5E23E16AF6A3500350777 /* goat-funny.png */,
-				2FB5E23F16AF6A3500350777 /* HelloBoxy.zip */,
-				2FB5E24016AF6A3500350777 /* HelloWorldLayer.header */,
-				2FB5E24116AF6A3500350777 /* HelloWorldLayer.impl */,
-				2FB5E24216AF6A3500350777 /* Person.impl */,
-				2FB5E24316AF6A3500350777 /* project.pbxproj */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		2FB5E24816AF6A3500350777 /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E24916AF6A3500350777 /* NSString+TestResource.h */,
-				2FB5E24A16AF6A3500350777 /* NSString+TestResource.m */,
-			);
-			path = Utils;
-			sourceTree = "<group>";
-		};
-		2FB5E24E16AF6A3500350777 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				2FB5E28416AF6A3600350777 /* Tests.octest */,
-				2FB5E28616AF6A3600350777 /* XcodeEditor.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -462,35 +159,12 @@
 			mainGroup = 2FB5E0A716AF4BDF00350777;
 			productRefGroup = 2FB5E0B316AF4BDF00350777 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 2FB5E24E16AF6A3500350777 /* Products */;
-					ProjectRef = 2FB5E24D16AF6A3500350777 /* xcode-editor.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				2FB5E0B116AF4BDF00350777 /* XProjectBuilder */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		2FB5E28416AF6A3600350777 /* Tests.octest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = Tests.octest;
-			remoteRef = 2FB5E28316AF6A3600350777 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		2FB5E28616AF6A3600350777 /* XcodeEditor.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = XcodeEditor.framework;
-			remoteRef = 2FB5E28516AF6A3600350777 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		2FB5E0B016AF4BDF00350777 /* Resources */ = {
@@ -500,27 +174,6 @@
 				2FB5E0C116AF4BE000350777 /* InfoPlist.strings in Resources */,
 				2FB5E0C716AF4BE000350777 /* Credits.rtf in Resources */,
 				2FB5E0CD16AF4BE000350777 /* MainMenu.xib in Resources */,
-				2FB5E25316AF6A3500350777 /* .gitignore in Resources */,
-				2FB5E25416AF6A3500350777 /* build-configuration.properties in Resources */,
-				2FB5E25516AF6A3500350777 /* build.xml in Resources */,
-				2FB5E25716AF6A3500350777 /* LICENSE in Resources */,
-				2FB5E25816AF6A3500350777 /* README.md in Resources */,
-				2FB5E25916AF6A3500350777 /* InfoPlist.strings in Resources */,
-				2FB5E25A16AF6A3500350777 /* XcodeEditor-Info.plist in Resources */,
-				2FB5E26C16AF6A3500350777 /* InfoPlist.strings in Resources */,
-				2FB5E27016AF6A3500350777 /* ArchiveProj.zip in Resources */,
-				2FB5E27116AF6A3500350777 /* ESA.Sales.Foobar.xib in Resources */,
-				2FB5E27216AF6A3500350777 /* ESA_Sales_Foobar_ViewController.header in Resources */,
-				2FB5E27316AF6A3500350777 /* ESA_Sales_Foobar_ViewController.impl in Resources */,
-				2FB5E27416AF6A3500350777 /* expanz-iOS-SDK.zip in Resources */,
-				2FB5E27516AF6A3500350777 /* goat-funny.png in Resources */,
-				2FB5E27616AF6A3500350777 /* HelloBoxy.zip in Resources */,
-				2FB5E27716AF6A3500350777 /* HelloWorldLayer.header in Resources */,
-				2FB5E27816AF6A3500350777 /* HelloWorldLayer.impl in Resources */,
-				2FB5E27916AF6A3500350777 /* Person.impl in Resources */,
-				2FB5E27A16AF6A3500350777 /* project.pbxproj in Resources */,
-				2FB5E27D16AF6A3500350777 /* Tests-Info.plist in Resources */,
-				2FB5E28016AF6A3500350777 /* target in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -533,30 +186,6 @@
 			files = (
 				2FB5E0C316AF4BE000350777 /* main.m in Sources */,
 				2FB5E0CA16AF4BE000350777 /* ARAppDelegate.m in Sources */,
-				2FB5E25B16AF6A3500350777 /* XCKeyBuilder.m in Sources */,
-				2FB5E25C16AF6A3500350777 /* XCAbstractDefinition.m in Sources */,
-				2FB5E25D16AF6A3500350777 /* XCBuildConfiguration.m in Sources */,
-				2FB5E25E16AF6A3500350777 /* XCClassDefinition.m in Sources */,
-				2FB5E25F16AF6A3500350777 /* XCFileOperationQueue.m in Sources */,
-				2FB5E26016AF6A3500350777 /* XCFrameworkDefinition.m in Sources */,
-				2FB5E26116AF6A3500350777 /* XCGroup.m in Sources */,
-				2FB5E26216AF6A3500350777 /* XcodeMemberType.m in Sources */,
-				2FB5E26316AF6A3500350777 /* XcodeSourceFileType.m in Sources */,
-				2FB5E26416AF6A3500350777 /* XCProject+SubProject.m in Sources */,
-				2FB5E26516AF6A3500350777 /* XCProject.m in Sources */,
-				2FB5E26616AF6A3500350777 /* XCSourceFile.m in Sources */,
-				2FB5E26716AF6A3500350777 /* XCSourceFileDefinition.m in Sources */,
-				2FB5E26816AF6A3500350777 /* XCSubProjectDefinition.m in Sources */,
-				2FB5E26916AF6A3500350777 /* XCTarget.m in Sources */,
-				2FB5E26A16AF6A3500350777 /* XCXibDefinition.m in Sources */,
-				2FB5E26B16AF6A3500350777 /* ClassDefinitionTests.m in Sources */,
-				2FB5E26D16AF6A3500350777 /* GroupTests.m in Sources */,
-				2FB5E26E16AF6A3500350777 /* KeyBuilderTests.m in Sources */,
-				2FB5E26F16AF6A3500350777 /* ProjectTests.m in Sources */,
-				2FB5E27B16AF6A3500350777 /* SubProjectDefinitionTests.m in Sources */,
-				2FB5E27C16AF6A3500350777 /* TargetTests.m in Sources */,
-				2FB5E27E16AF6A3500350777 /* NSString+TestResource.m in Sources */,
-				2FB5E27F16AF6A3500350777 /* XcodeFileReferenceTypeTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -585,22 +214,6 @@
 				2FB5E0CC16AF4BE000350777 /* en */,
 			);
 			name = MainMenu.xib;
-			sourceTree = "<group>";
-		};
-		2FB5E20816AF6A3500350777 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2FB5E20916AF6A3500350777 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		2FB5E23316AF6A3500350777 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2FB5E23416AF6A3500350777 /* en */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
